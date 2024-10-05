@@ -1,5 +1,5 @@
 # Lilsy Project (Crochet business for nishathapa.nthapa@gmail.com)
-Visit ([https://www.instagram.com/official.lilsy]Instagram) of the creator for more info.
+Visit [@official.lilsy](https://www.instagram.com/official.lilsy) > creator for more info.
 
 ## Project details
 1) Made with react + vite.
